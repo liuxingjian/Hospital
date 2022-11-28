@@ -1,5 +1,6 @@
 # Hospital
 Hospital management system 医院管理系统 GUI
+![image](https://user-images.githubusercontent.com/69226327/204326940-279786ac-36bd-4cf8-b19a-6d3270603115.png)
 
 ![image](https://user-images.githubusercontent.com/69226327/204325861-1c12f708-1d3f-42b6-813f-69ea4cd636a2.png)
 ![image](https://user-images.githubusercontent.com/69226327/204326008-8c5e5363-1c24-4201-9db2-45e8a31b813a.png)
